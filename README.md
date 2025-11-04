@@ -51,9 +51,9 @@ The guide is structured as an academic paper following IEEE format and includes:
 
 ## 🌍 Language Versions
 
-**Current Status**: The guide is currently available in English as part of ongoing academic research.
+**Current Status**: The guide is currently available in English and German language as part of ongoing academic research.
 
-**Coming Soon**: A German version is in development and will be available shortly. Additional language versions may follow based on community interest and feedback.
+Additional language versions may follow based on community interest and feedback.
 
 ## 🎓 Academic Context
 
